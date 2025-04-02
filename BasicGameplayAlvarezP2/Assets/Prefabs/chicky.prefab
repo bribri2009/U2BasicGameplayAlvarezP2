@@ -168,6 +168,7 @@ GameObject:
   - component: {fileID: 791739564945126785}
   - component: {fileID: 595761835538926071}
   - component: {fileID: 6333291660655343269}
+  - component: {fileID: 2320397384023502099}
   m_Layer: 0
   m_Name: chicky
   m_TagString: Untagged
@@ -238,6 +239,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f702acba7104cce4a8cf0ba5c0448fc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &2320397384023502099
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2923091520957984256}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 4.521306, y: 7.0376706, z: 9.185103}
+  m_Center: {x: 0.0001007484, y: 3.0188344, z: -0.7882373}
 --- !u!1 &3964953623522943812
 GameObject:
   m_ObjectHideFlags: 0
