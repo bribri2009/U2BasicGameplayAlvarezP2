@@ -9,6 +9,7 @@ public class SpawnManager : MonoBehaviour
     private float zSpawnPos = 20;
     private float startDelay = 2;
     private float spawnInterval = 1.5f;
+
     
 
     // Start is called before the first frame update
@@ -20,7 +21,7 @@ public class SpawnManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+       
     }
 
 
